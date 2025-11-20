@@ -6,4 +6,12 @@ library(MASS)
 #learning to commit our code with git
 #wut
 #changes
-more changes
+#ahhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+#making changes idkidkidkidkdikdikd idk chaos (chads?:0)
+
+sha #sha?
+
+its like ur unique comp
+#i was not listning im dead 
